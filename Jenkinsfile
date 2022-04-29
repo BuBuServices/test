@@ -1,5 +1,5 @@
 node {
-    stage('test'){
+    stage('vive tux'){
         checkout scm
     }
 }
