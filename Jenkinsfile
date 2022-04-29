@@ -1,13 +1,5 @@
 node {
-    stage('Vivement 16h30'){
+    stage('test'){
         checkout scm
     }
-
-    // stage (" "){
-    //     sh "je sais pas"
-    // }
-
-    // stage(" "){
-    //     __
-    // }
 }
